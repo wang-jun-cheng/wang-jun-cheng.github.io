@@ -5,9 +5,9 @@ affiliation: Hong Kong Baptist University
 affiliation_link: https://www.hkbu.edu.hk/en.html/
 department: Department of Computer Science
 department_link: https://www.comp.hkbu.edu.hk/v1/?page=home/
-email: jcwang@comp.hkbu.edu.hk
+email: jcwang@hkbu.edu.hk
 address: Room 633, David C. Lam Building
-phone: +852 3411 5998
+# phone: +852 3411 5998
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -17,7 +17,7 @@ phone: +852 3411 5998
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=sxZvGpIAAAAJ&hl=en
+# google_scholar: https://scholar.google.com/citations?user=sxZvGpIAAAAJ&hl=en
 resume: ./assets/Juncheng CV.pdf
 
 # Images (e.g., your profile picture and your website's favicon) 
