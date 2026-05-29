@@ -8,7 +8,7 @@ I received my Ph.D. degree in Electrical and Computer Engineering from the [Univ
 
 My current research interests are in networked systems and mobile communications, especially network artificial intelligence, online learning, distributed computing, stochastic optimization, and their applications to integrated computation and communication systems.
 
-My current research is supported by the HK Research Grant Council (RGC) - Early Career Scheme (ECS) and Research Matching Grant Scheme (RMGS), the National Natural Science Foundation of China (NSFC) - Young Scientists Fund, Department of Science and Technology of Guangdong Province (GDSTC) - General Program, HKBU-BNBU-GDSTC “1+1+1” Joint Collaboration Fund, and Huawei - HK Young Scholars Fund.
+My current research is supported by the HK Research Grant Council (<strong>RGC</strong>) - Early Career Scheme (ECS) and Research Matching Grant Scheme (RMGS), the National Natural Science Foundation of China (<strong>NSFC</strong>) - Young Scientists Fund, Department of Science and Technology of Guangdong Province (<strong>GDSTC</strong>) - General Program, HKBU-BNBU-GDSTC “1+1+1” Joint Collaboration Fund, and <strong>Huawei</strong> - HK Young Scholars Fund.
 
 <strong>Prospective Students:</strong> I am always looking for self-motivated Ph.D. students (<span style="color:#EF4848">multiple openings</span>), Research Assistants, Post-docs, and Visitors to work with me (see [<span style="color:#EF4848"><u>this document</u></span>](/assets/香港浸会大学计算机与通信网络方向招生.pdf) for more details). If you find there are some common research interests between us, please feel free to drop me an email with your CV and any other supporting materials.
 
