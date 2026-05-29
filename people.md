@@ -3,7 +3,7 @@ layout: normal
 title: People
 ---
 
-## Ph.D. Students
+## PhD Students
 
 Mr. Houxin Gong (2026)  
 - Master: Zhejiang University; Bachelor: Tongji University
@@ -22,9 +22,9 @@ Mr. Yituo Liu (2024)
 
 Ms. Lulu Zhu (2025)  
 - Master: The University of Sydney; Bachelor: Tianjin University
-- An incoming Ph.D. student at The University of Sydney
+- An incoming PhD student at The University of Sydney
 
 Mr. Bingjie Yan (2024)
 - AAAI 2025
 - Master: Chinese Academy of Sciences; Bachelor: Hainan University
-- Now a Ph.D. student at The Hong Kong Polytechnic University
+- Now a PhD student at The Hong Kong Polytechnic University
