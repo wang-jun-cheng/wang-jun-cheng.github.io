@@ -54,7 +54,7 @@ L. He, Z. Li, Z. Jia, **J. Wang**, S. Li, and Z. Han, “Online routing for low 
 \[J1\] G. Geng, **J. Wang**, K.-L. Chen, and W. Xu, “Contactless current measurement for enclosed multiconductor systems based on sensor array,” *IEEE Transactions on Instrumentation and Measurement (TIM)*, vol. 66, pp. 2627-2637, Oct. 2017. [[Link](https://ieeexplore.ieee.org/document/7955058)]
 
 ## Conference Articles
-\[C19\] <u>W. Qin</u>, W. Bao, **J. Wang**✉️, and M. Zhou, “Double queue for constrained online convex optimization: Bridging the best-of-two-worlds constraint violation,” in *Proceedings of IEEE International Conference on Computer Communications (**INFOCOM**)*, Tokyo, Japan, May 2026. 
+\[C19\] <u>W. Qin</u>, W. Bao, **J. Wang**✉️, and M. Zhou, “Double queue for constrained online convex optimization: Bridging the best-of-two-worlds constraint violation,” in *Proceedings of IEEE International Conference on Computer Communications (**INFOCOM**)*, Tokyo, Japan, May 2026. [[Paper](/assets/publication/INFOCOM26_DoubleQ.pdf)]
 
 \[C18\] **J. Wang**✉️, <u>Y. Liu</u>, B. Liang, and M. Dong, “Constrained over-the-air model updating for wireless online federated learning with delayed information,” in *Proceedings of IEEE International Conference on Computer Communications (**INFOCOM**)*, London, United Kingdom, May 2025. [[Link](https://ieeexplore.ieee.org/document/11044570)]
 
